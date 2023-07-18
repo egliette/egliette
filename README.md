@@ -22,7 +22,7 @@
 
 - ⭐ I have a keen interest in studying NLP problems specific to the Vietnamese language
 
-- 🤗 I have a passion for developing open source projects.
+- 🤗 I have a passion for developing open-source projects and Unity game 🎮.
 
 - 📝 I regularly write articles on [Viblo](https://viblo.asia/u/leminhtu74)
 

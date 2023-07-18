@@ -42,10 +42,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,java,javascript,cpp&perline=14" />
-  </a>
-  <a>
+  </a>  
+</p>
+
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egliette&layout=compact"/>
-  </a>
 </p>
 
 

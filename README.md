@@ -34,27 +34,31 @@
 
 <!--Program Languages-->
 <div id="user-content-toc">
-  <ul >
+  <ul align="center">
     <summary><h2 style="display: inline-block">Programming Languages That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p >
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,cs,java,javascript,cpp&perline=14" />
   </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=egliette&layout=compact"/>
+  </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egliette&layout=compact)
+
+
 
 <!--Tools & Technologies-->
 <div id="user-content-toc">
-  <ul >
+  <ul align="center">
     <summary><h2 style="display: inline-block">Tools & Technologies That I Know 🧰</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p >
+<p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,neovim,git,github,gitlab&perline=14"/>
 

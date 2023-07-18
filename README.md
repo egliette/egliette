@@ -62,7 +62,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=vscode,androidstudio,visualstudio,neovim,git,github,gitlab&perline=14"/>
-
+  <br/>
   <img src="https://skillicons.dev/icons?i=docker,firebase,figma,unity,pytorch,selenium,latex&perline=14"/>
   </a>
 </p>
